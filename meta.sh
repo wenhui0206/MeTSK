@@ -1,0 +1,1 @@
+python train.py --num_episodes=30 --epochs=90 --update_step=25 --alpha=15 --model_name='metsk' --num_samples=4 --tau=30.0 --num_nodes=116 --warmup_step=20  --W=120

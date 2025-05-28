@@ -1,0 +1,1 @@
+python run_training.py --num_nodes=116 --epochs=5000  --fp_dis="../data_npz/ADHD_AAL.npz" 
