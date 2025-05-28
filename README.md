@@ -13,9 +13,13 @@ Paper published in **Transactions on Machine Learning Research (TMLR)**:
 BibTeX citation:
 
 ```bibtex
-@article{cui2024generalizable,
-  title={Generalizable Representation Learning for fMRI-based Neurological Disorder Identification},
-  author={Cui, Wenhui and Akrami, Haleh and Joshi, Anand A and Leahy, Richard M},
-  journal={arXiv preprint arXiv:2412.16197},
-  year={2024}
+@article{
+cui2025generalizable,
+title={Generalizable Representation Learning for f{MRI}-based Neurological Disorder Identification},
+author={Wenhui Cui and Haleh Akrami and Anand Joshi and Richard Leahy},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=zF9IrMTjCC},
+note={}
 }
